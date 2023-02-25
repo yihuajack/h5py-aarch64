@@ -1,4 +1,7 @@
 # h5py-aarch64
+
+**No updates will be available for the forseeable future. This repository has been archived.**
+
 This repository provides an h5py wheel for AArch64 architecture. Currently there is only `h5py-3.1.0-cp36-cp36m-linux_aarch64.whl` which is built on Jetson TX2. If you need other versions, feel free to open an issue.
 
 If you have an AArch64 device, you can build your own version by
